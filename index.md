@@ -19,3 +19,4 @@
 * [CTSI Approved Consumer Codes and information](https://www.tradingstandards.uk/commercial-services/code-sponsors)
 * [Moving house checklist](https://www.tvlicensing.co.uk/moving-house-checklist)
 * [New Home DIY Internal Snags list](http://www.brand-newhomes.co.uk/new_home_diy_snaglist_internal.htm)
+* [New Build Rights Alliance](https://newbuildrights.com/)
