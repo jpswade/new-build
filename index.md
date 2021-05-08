@@ -6,3 +6,9 @@
 * [Hollow sounding tiles](hollow-sounding-tiles)
 * [Cold room](cold-room)
 * [Weak mortar](weak-mortar)
+* [Exposed wiring](exposed-wiring)
+* [Inspection Chamber Safety](inspection-chamber-safety)
+
+## See also
+
+* [Buying and selling homes: consumer experience study](https://www.gov.uk/government/publications/buying-and-selling-homes-consumer-experience-study)
