@@ -20,6 +20,7 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 
 * Source: ICW [Consumer Code for New Homes](https://i-c-w.co.uk/wp-content/uploads/2016/11/ICW-Consumer-Code-for-New-Homes.pdf)
 
+> Defects Insurance Period
 > The two years from the Completion Date as specified in the Certificate of Insurance.
 
 * Source: ICW [POLICY DOCUMENT RESIDENTIAL WARRANTY UK (Version 2)](https://wbh1.co.uk/wp-content/uploads/2019/12/ICWIS-Residential-Warranty-Policy_v2.pdf)
