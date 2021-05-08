@@ -3,6 +3,7 @@
 ## Contents
 
 * [Checklist](checklist)
+* [Consumer Code](consumer-code)
 * [How far should a cooker hood be from the hob?](cooker-hood-distance)
 * [What should the distance of a socket from a sink be?](distance-of-a-socket-from-a-sink)
 * [Drainage](drainage)
