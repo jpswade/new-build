@@ -20,4 +20,4 @@
 ## See also
 
 * [Buying and selling homes: consumer experience study](https://www.gov.uk/government/publications/buying-and-selling-homes-consumer-experience-study)
-
+* [CTSI Approved Consumer Codes and information](https://www.tradingstandards.uk/commercial-services/code-sponsors)
