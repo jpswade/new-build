@@ -12,6 +12,7 @@
 * [Exposed wiring](exposed-wiring)
 * [Inspection Chamber Safety](inspection-chamber-safety)
 * [Leaking Showers](leaking-showers)
+* [Building Control](building-control)
 
 ## See also
 
