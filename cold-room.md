@@ -43,3 +43,9 @@ Restrict the movement of smoke or flame within a cavity.
 > A cavity in an external wall can behave as a chimney, accelerating fire spread up a façade. This can be a threat to occupants or fire-fighters if the cavity is open to the exterior. Sealed cavities are generally not a problem.
 
 * Source: [BCA Technical Guidance Note 26](http://buildingcontrolalliance.org/wp-content/uploads/2017/07/BCA-GN-26-Service-Penetrations-through-External-Wall-Constructions-of-Residential-Buildings-0-Apr-2017.pdf)
+
+### Fire Safety
+
+> The building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited.
+
+* Source [Building Regulations and Fire Engineering Guidance](https://www.cheshirefire.gov.uk/business-safety/building-regulations-and-fire-engineering-guidance)
