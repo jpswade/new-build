@@ -1,4 +1,8 @@
-# Consumer Code
+# Warranty
+
+The [Developer] Home Warranty, which lasts for two years from the date of legal completion, covers items not included in the [Code of Conduct] cover. For that period, [the Developer will] guarantee items supplied as part of your new home, covering defects caused by our faulty workmanship or materials.
+
+* Source: [Warranty](http://balstanhomes.co.uk/customer-services/warranty/), Balstan Homes
 
 ## The Consumer Code for Homebuilders
 
