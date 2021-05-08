@@ -6,7 +6,7 @@
 
 * Source: [Issues with new build homes](https://stratuslegalsolutions.co.uk/new-build/), Stratus Legal Solutions
 
-# Cavity
+## Cavity
 
 Approved document B, Fire Safety, Volume 2, Buildings other than dwellinghouses (2019 edition), defines a cavity as:
 
@@ -22,7 +22,7 @@ Restrict the movement of smoke or flame within a cavity.
 * Source: [Fire safety: Approved Document B](https://www.gov.uk/government/publications/fire-safety-approved-document-b)
 * Source: [Cavity](https://www.designingbuildings.co.uk/wiki/Cavity), Designing Buildings Wiki
 
-# Cavity Barrier
+## Cavity Barrier
 
 > A concealed space (cavity) in the external wall of a building can act as a chimney and provide an easy route for flame, hot gases and smoke to propagate from one compartment of a building to another. Unsealed cavities can allow air to be drawn in and smoke to vent out, enabling the fire spread to accelerate through the façade. This chimney effect enables flames that are within a cavity to be able to extend between 5 and 10 times higher than a flame that is not within a cavity, regardless of whether or not the surfaces of the cavity are combustible.
 >
