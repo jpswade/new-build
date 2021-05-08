@@ -22,11 +22,3 @@ This is a breach of building regulations and should be taken very seriously.
 * Source: [Rainwater downpipe](https://www.designingbuildings.co.uk/wiki/Rainwater_downpipe)
 * Source: [Part H - Drainage and Waste Disposal](https://www.planningportal.co.uk/info/200135/approved_documents/71/part_h_-_drainage_and_waste_disposal)
 * Source: [Approved Document H](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/442889/BR_PDF_AD_H_2015.pdf)
-
-### Building Control
-
-> The role of Building Control is to audit and verify construction and to that end we don’t specifically oversee every aspect of construction.
-> 
-> [The Builder] has "the prime responsibility for compliance with the Building Regulations and therefore we would suggest that you maintain contact with them over the remaining warranty period"
-
-* Source: [Paul McNeill, Ball & Berry](https://ballandberry.co.uk/meet-the-team/paul-mcneill/) - Approved Building Inspectors (Building Control)

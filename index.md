@@ -20,3 +20,4 @@
 * [Moving house checklist](https://www.tvlicensing.co.uk/moving-house-checklist)
 * [New Home DIY Internal Snags list](http://www.brand-newhomes.co.uk/new_home_diy_snaglist_internal.htm)
 * [New Build Rights Alliance](https://newbuildrights.com/)
+* [New-build housing: construction defects - issues and solutions](http://researchbriefings.files.parliament.uk/documents/CBP-7665/CBP-7665.pdf)
