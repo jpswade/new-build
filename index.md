@@ -4,6 +4,7 @@
 
 * [Checklist](checklist)
 * [Consumer Code](consumer-code)
+* [Building Control](building-control)
 * [How far should a cooker hood be from the hob?](cooker-hood-distance)
 * [What should the distance of a socket from a sink be?](distance-of-a-socket-from-a-sink)
 * [Drainage](drainage)
@@ -13,7 +14,7 @@
 * [Exposed wiring](exposed-wiring)
 * [Inspection Chamber Safety](inspection-chamber-safety)
 * [Leaking Showers](leaking-showers)
-* [Building Control](building-control)
+* [Lawn](lawn)
 
 ## See also
 
