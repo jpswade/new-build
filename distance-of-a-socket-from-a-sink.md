@@ -131,7 +131,7 @@ This states:
 
 * Source: [Electrical Safety First](https://en.wikipedia.org/wiki/Electrical_Safety_First), Wikipedia 
 
-##§# What is their guidance?
+### What is their guidance?
 
 > To avoid water coming into contact with electricity, make sure that your sockets or switches are fitted at a safe distance (at least 30cm horizontally) from the sink.
 > If appliances such as fridges, dishwashers and washing machines are fitted under worktops, getting to sockets may be difficult.

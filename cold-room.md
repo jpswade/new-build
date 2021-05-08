@@ -29,3 +29,17 @@ Restrict the movement of smoke or flame within a cavity.
 > Regulation and [BS 9991](https://www.designingbuildings.co.uk/wiki/BS_9991:2015_Fire_safety_in_the_design,_management_and_use_of_residential_buildings._Code_of_practice) require that the flame spread over or within an external wall construction should be controlled to avoid creating a route for rapid fire spread bypassing compartment floors or walls. This is an important consideration for any fire strategy but is of fundamental importance when a ‘stay put’ strategy is in place.
 
 * Source: [FAQ: Cavity Barriers in External Walls ](https://www.labcwarranty.co.uk/blog/faq-cavity-barriers-in-external-walls/)
+
+## BS 9991
+
+> Regulation B3(4) states that ‘the building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited’.
+>
+> Concealed spaces or cavities in the construction of a building provide a ready route for smoke and flame spread.
+>
+> This is particularly so in the case of voids in, above and below the construction of a building, e.g. walls, floors, ceilings and roof spaces. As any spread of fire or smoke is concealed, it presents a greater danger than would a  more obvious weakness in the fabric of the building. Provisions can be made to restrict this by interrupting cavities which could form a pathway around a barrier to fire, subdividing extensive cavities, and closing the edges of  openings.
+>
+> The unseen spread of fire or smoke via voids and cavities can be a threat to occupants if it bypasses compartment boundaries or elements protecting the means of escape. It can also be a threat to fire-fighters in large spaces if it leads to the obstruction of their line of retreat.
+>
+> A cavity in an external wall can behave as a chimney, accelerating fire spread up a façade. This can be a threat to occupants or fire-fighters if the cavity is open to the exterior. Sealed cavities are generally not a problem.
+
+* Source: [BCA Technical Guidance Note 26](http://buildingcontrolalliance.org/wp-content/uploads/2017/07/BCA-GN-26-Service-Penetrations-through-External-Wall-Constructions-of-Residential-Buildings-0-Apr-2017.pdf)
