@@ -1,6 +1,6 @@
 # What should the distance of a socket from a sink be?
 
-# Legislation 
+## Legislation 
 
 > Building regulations in the United Kingdom are statutory instruments or statutory regulations that seek to ensure that the policies set out in the relevant legislation are carried out. Building regulations approval is required for most building work in the UK.
 
@@ -14,24 +14,24 @@
 * Source: [Part P Building Regulations](https://electrical.theiet.org/bs-7671/building-regulations/part-p-england-and-wales/)
 * Source: [Electrical safety: Approved Document P](https://www.gov.uk/government/publications/electrical-safety-approved-document-p)
 
-# NHBC
+## NHBC
 
 ## Who are the NHBC?
 
 > The National House Building Council, usually known as the NHBC, states its primary purpose as raising the construction standards of new homes in the United Kingdom (UK), and providing consumer protection for homebuyers through its 10-year Buildmark warranty.
 * Source: [National House Building Council](https://en.wikipedia.org/wiki/National_House_Building_Council) on Wikipedia.
 
-## What is their guidance?
+### What is their guidance?
 
-> ### Question
+> #### Question
 > How far should an electrical accessory be located from a gas or electric cooker, hob, kitchen sink, or wash basin?
 > 
-> ### Considerations
+> #### Considerations
 > In BS 6172 ‘Specification for installation, servicing and maintenance of domestic gas cooking appliances’ says ‘the cable, plug, socket, switched fused spur, double pole switch or control unit shall not be in contact with hot surfaces or directly exposed to products of combustion’.
 > 
 > In Electrical Safety First ‘Wiring Regulations Advisory Group’ have considered this matter and have given their interpretation of BS 7671 ‘Requirements for electrical installations’ in their frequently asked questions and answers on their website.
 > 
-> ### Answer
+> #### Answer
 > In the absence of any advice in the appliance manufacturer’s installation instructions, an electrical accessory such as a socket outlet, switch, control unit, consumer unit etc. should be positioned to enable safe operation and to avoid the harmful effects of heat and steam from cooking activities or splashing from use of a sink or wash basin.
 > 
 > A minimum distance of 100mm, measured horizontally from an electrical accessory to the edge of a freestanding cooker or individual hob (see diagram 2) is considered acceptable for the purposes of avoiding adverse effects from using a cooker or hob. An electrical accessory should not be located immediately above a cooker or hob due to the possibility of people reaching over suffering burns, or the flexible cable of connected equipment being damaged.
@@ -42,15 +42,15 @@
 
 * Source: NHBC Technical Guidance January 2016 - [Electrical fittings near cookers, sinks and wash basins](https://www.nhbc.co.uk/binaries/content/assets/nhbc/tech-zone/nhbc-standards/tech-guidance/8.1/electrical-fittings-near-cookers-sinks-and-wash-basins-.pdf).
 
-# NICEIC
+## NICEIC
 
-## Who are the NICEIC?
+### Who are the NICEIC?
 
 > The National Inspection Council for Electrical Installation Contracting (NICEIC) is one of several organisations which regulates the training and work of electrical enterprises in the UK. The NICEIC is one of several providers given Government approval to offer Competent Person Schemes to oversee electrical work within the electrical industry.
 
 * Source [NICEIC](https://en.wikipedia.org/wiki/National_Inspection_Council_for_Electrical_Installation_Contracting), Wikipedia
 
-## What is their guidance?
+### What is their guidance?
 
 > Electrical sockets or switches should be fitted at a safe distance (it is recommended at least 30cm horizontally) from a sink to avoid the chance of water coming into contact with electricity.
 > 
@@ -63,9 +63,9 @@
 
 * Source: The NICEIC [Your Guide to Electrical Work in the Kitchen](https://dms.niceic.com/0000000043.pdf)
 
-# IET
+## IET
 
-## Who are the IET?
+### Who are the IET?
 
 > The Institution of Engineering and Technology (IET) is a multidisciplinary professional engineering institution. The IET was formed in 2006 from two separate institutions: the Institution of Electrical Engineers (IEE), dating back to 1871, and the Institution of Incorporated Engineers (IIE) dating back to 1884. Its worldwide membership is currently in excess of 158,000 in 153 countries. The IET's main offices are in Savoy Place in London, England and at Michael Faraday House in Stevenage, England.
 > 
@@ -75,13 +75,13 @@
 
 * Source [Institution of Engineering and Technology](https://en.wikipedia.org/wiki/Institution_of_Engineering_and_Technology), Wikipedia
 
-## What is the relevance of the IET?
+### What is the relevance of the IET?
 
 > British Standard BS 7671 "Requirements for Electrical Installations. IET Wiring Regulations", informally called in the electrical community The "Regs", is the national standard in the United Kingdom for electrical installation and the safety of electrical wiring in domestic, commercial, industrial, and other buildings, also in special installations and locations, such as marinas or caravan parks and medical locations.
 
 * Source [BS 7671](https://en.wikipedia.org/wiki/BS_7671), Wikipedia
 
-## What does BS 7671 say?
+### What does BS 7671 say?
 
 > 512.2 External influences
 > 512.2.1 Equipment shall be of a design appropriate to the situation in which it is to be used or its mode of installation shall take account of the conditions likely to be encountered.
@@ -96,9 +96,9 @@
 * Source [Newnes Electrical Pocket Book By E A Reeves, Martin Heathcote, 2013](https://www.google.co.uk/books/edition/Newnes_Electrical_Pocket_Book/mZFGXTlHIEsC?hl=en&gbpv=0)
 * Source [Requirements for Electrical Installations IET Wiring Regulations Eighteenth Edition](http://erlerdesign.com/download/ESD/draft__BS-7671_2017-06-23_for_comments.pdf)
 
-## What is the IET guidance based on BS 7671?
+### What is the IET guidance based on BS 7671?
 
-### Guidance Note 1: Selection & Erection (Electrical Regulations)
+#### Guidance Note 1: Selection & Erection (Electrical Regulations)
 
 > Guidance Note 1: Selection & Erection is a fundamental guide for specifiers, installers and those inspecting and testing installations. It contains clear guidance on how to apply the relevant sections of BS 7671 and has been fully updated to BS 7671:2018
 
@@ -110,7 +110,7 @@ This states:
 * Source [Q & A of the Day – What is the allowable distance between sink and distribution unit?](https://www.voltimum.co.uk/articles/q-day-what-allowable-distance)
 * Source [Distance of a socket from a sink – The Facts!](https://www.procertssoftware.com/blog/distance-of-a-socket-from-a-sink-the-facts/)
 
-### Electrician's Guide to the Building Regulations (Electrical Regulations)
+#### Electrician's Guide to the Building Regulations (Electrical Regulations)
 
 > Electrician's Guide to the Building Regulations includes the latest guidance on third-party certification schemes and covers relevant parts of the Building Regulations, including Fire Safety, Ventilation and Conservation of Energy. This guide has been fully updated to BS 7671:2018.
 
@@ -123,15 +123,15 @@ This states:
 * Source [Electrician's Guide to the Building Regulations (Electrical Regulations) Spiral-bound – 31 July 2018](https://www.amazon.co.uk/Electricians-Guide-Building-Regulations-Electrical/dp/1785614681)
 * Source [Distance of a socket from a sink – The Facts!](https://www.procertssoftware.com/blog/distance-of-a-socket-from-a-sink-the-facts/) 
 
-# Electrical Safety First
+## Electrical Safety First
 
-## Who are they?
+### Who are they?
 
 > Electrical Safety First (formerly the Electrical Safety Council, or ESC) is a registered UK charity working with all sectors of the electrical industry as well as local and central government to reduce deaths and injuries caused by electrical accidents.
 
 * Source: [Electrical Safety First](https://en.wikipedia.org/wiki/Electrical_Safety_First), Wikipedia 
 
-## What is their guidance?
+##§# What is their guidance?
 
 > To avoid water coming into contact with electricity, make sure that your sockets or switches are fitted at a safe distance (at least 30cm horizontally) from the sink.
 > If appliances such as fridges, dishwashers and washing machines are fitted under worktops, getting to sockets may be difficult.
