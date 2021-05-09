@@ -19,9 +19,9 @@
 
 ## See also
 
-* [Buying and selling homes: consumer experience study](https://www.gov.uk/government/publications/buying-and-selling-homes-consumer-experience-study)
 * [CTSI Approved Consumer Codes and information](https://www.tradingstandards.uk/commercial-services/code-sponsors)
 * [Moving house checklist](https://www.tvlicensing.co.uk/moving-house-checklist)
 * [New Home DIY Internal Snags list](http://www.brand-newhomes.co.uk/new_home_diy_snaglist_internal.htm)
 * [New Build Rights Alliance](https://newbuildrights.com/)
 * [New-build housing: construction defects - issues and solutions](http://researchbriefings.files.parliament.uk/documents/CBP-7665/CBP-7665.pdf)
+* [New Build Homes – Failed Promises Group](https://www.facebook.com/groups/260436554604324)
