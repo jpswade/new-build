@@ -1,6 +1,6 @@
 # Weak Mortar
 
-If moisture, such as rain, is to get into that crack, then this is likely to result in structural damage.
+If moisture, such as rain, is to get into cracks in weak mortar, then this is likely to result in structural damage.
 
 Weak mortar is a major issue and one that should be taken very seriously.
 
