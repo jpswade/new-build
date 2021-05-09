@@ -44,6 +44,14 @@ Restrict the movement of smoke or flame within a cavity.
 
 * Source: [BCA Technical Guidance Note 26](http://buildingcontrolalliance.org/wp-content/uploads/2017/07/BCA-GN-26-Service-Penetrations-through-External-Wall-Constructions-of-Residential-Buildings-0-Apr-2017.pdf)
 
+### Building Regulations
+
+Air tightness is covered under part L of the Building Regulations.
+
+> Air permeability testing is necessary as a means of demonstrating that airtightness targets used in energy calculations as Part L of building regulations compliance have been achieved in reality. In England and Wales, airtightness testing has been mandatory for virtually all new buildings since 2006.
+
+Source: [Air tightness in buildings](https://www.designingbuildings.co.uk/wiki/Air_tightness_in_buildings)
+
 ### Fire Safety
 
 > The building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited.
