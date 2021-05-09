@@ -35,7 +35,7 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 
 * Source: ICW [POLICY DOCUMENT RESIDENTIAL WARRANTY UK (Version 2)](https://wbh1.co.uk/wp-content/uploads/2019/12/ICWIS-Residential-Warranty-Policy_v2.pdf)
 
-# CRL
+## CRL Code
 
 > The Consumer Code for New-Home Ownership (‘the Code’) is promoted by CRL Management Limited (CRL), one
   the U.K.’s providers of Structural Home Defects Insurance protection, the company that maintains The Construction
