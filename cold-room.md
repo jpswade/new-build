@@ -48,4 +48,4 @@ Restrict the movement of smoke or flame within a cavity.
 
 > The building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited.
 
-* Source [Building Regulations and Fire Engineering Guidance](https://www.cheshirefire.gov.uk/business-safety/building-regulations-and-fire-engineering-guidance)
+* Source: [Building Regulations and Fire Engineering Guidance](https://www.cheshirefire.gov.uk/business-safety/building-regulations-and-fire-engineering-guidance)

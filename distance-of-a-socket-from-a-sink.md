@@ -6,7 +6,24 @@
 
 * Source: [Building Regulations in the UK](https://en.wikipedia.org/wiki/Building_regulations_in_the_United_Kingdom), Wikipedia
 
+> The Building Regulations may apply in and around buildings. These requirements are
+intended to protect people’s safety, health and welfare. They also set standards for
+accessibility, water use, energy use and security. The approved documents give further
+guidance for many common building situations. They contain statutory guidance on how to
+meet the requirements of the Building Regulations.
+>
+> Where the approved documents do not provide appropriate guidance, there may be other ways to demonstrate compliance. It may be possible to achieve compliance by following the advice in one or more of the sources set out below:
+> 
+> a. guidance from recognised standards bodies
+> 
+> b. industry recognised codes
+>
+> c. manufacturers’ technical literature.
+
+* Source: [Manual to the Building Regulations](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/901517/Manual_to_building_regs_-_July_2020.pdf), HM Government
+
 > Part P forms part of the Building Regulations. The principle of the Building Regulations is to ensure that consistent standards are applied to the construction of buildings including its structure, fire safety, sound insulation, drainage, ventilation and electrical safety.
+>
 > In short, electrical installations must be safe!  Part P of the Building Regulations applies to fixed electrical installations in dwellings (including gardens and shared amenities in blocks of flats, and any building that shares its electricity supply with a dwelling).
 
 * Source: [What is Part P?](https://www.niceic.com/find-a-contractor/electrics-explained/what-is-part-p)
@@ -48,7 +65,7 @@
 
 > The National Inspection Council for Electrical Installation Contracting (NICEIC) is one of several organisations which regulates the training and work of electrical enterprises in the UK. The NICEIC is one of several providers given Government approval to offer Competent Person Schemes to oversee electrical work within the electrical industry.
 
-* Source [NICEIC](https://en.wikipedia.org/wiki/National_Inspection_Council_for_Electrical_Installation_Contracting), Wikipedia
+* Source: [NICEIC](https://en.wikipedia.org/wiki/National_Inspection_Council_for_Electrical_Installation_Contracting), Wikipedia
 
 ### What is their guidance?
 
@@ -73,28 +90,31 @@
 >
 > It was well-known for publication of the IEE Wiring Regulations which now continue to be written by the IET and to be published by the British Standards Institution as BS 7671.
 
-* Source [Institution of Engineering and Technology](https://en.wikipedia.org/wiki/Institution_of_Engineering_and_Technology), Wikipedia
+* Source: [Institution of Engineering and Technology](https://en.wikipedia.org/wiki/Institution_of_Engineering_and_Technology), Wikipedia
 
 ### What is the relevance of the IET?
 
 > British Standard BS 7671 "Requirements for Electrical Installations. IET Wiring Regulations", informally called in the electrical community The "Regs", is the national standard in the United Kingdom for electrical installation and the safety of electrical wiring in domestic, commercial, industrial, and other buildings, also in special installations and locations, such as marinas or caravan parks and medical locations.
 
-* Source [BS 7671](https://en.wikipedia.org/wiki/BS_7671), Wikipedia
+* Source: [BS 7671](https://en.wikipedia.org/wiki/BS_7671), Wikipedia
 
 ### What does BS 7671 say?
 
 > 512.2 External influences
+>
 > 512.2.1 Equipment shall be of a design appropriate to the situation in which it is to be used or its mode of installation shall take account of the conditions likely to be encountered.
+>
 > 512.2.2 If the equipment does not, by its construction, have the characteristics relevant to the external influences of its location, it may nevertheless be used on condition that it is provided with appropriate additional protection in the erection of the installation. Such protection shall not adversely affect the operation of the equipment thus protected.
+>
 > 512.2.3 Where different external influences occur simultaneously, they may have independent or mutual effects and the degree of protection shall be provided accordingly.
 
-* Source [New, Rewired And Similar Installations](https://www.electricalsafetyfirst.org.uk/professional-resources/wiring-regulations/new-rewired-and-similar-installations/), Electrical Safety First
-* Source [Electrical enclosures](https://dxu3qlulsm4jd.cloudfront.net/sites/www.voltimum.co.uk/files/fields/attachment_file/gb/others/V/2007021245732007021261832007021263181780snagbook2ed2snag10.pdf), Voltimum
-* Source [Distance of a socket from a sink – The Facts!](https://www.procertssoftware.com/blog/distance-of-a-socket-from-a-sink-the-facts/)
-* Source [Ten 17th Edition Regulations at Christmas](https://the-regs.co.uk/blog/?p=334)
-* Source [Wiring Regulations in Brief By Ray Tricker, 2020](https://www.google.co.uk/books/edition/Wiring_Regulations_in_Brief/n9UDEAAAQBAJ)
-* Source [Newnes Electrical Pocket Book By E A Reeves, Martin Heathcote, 2013](https://www.google.co.uk/books/edition/Newnes_Electrical_Pocket_Book/mZFGXTlHIEsC?hl=en&gbpv=0)
-* Source [Requirements for Electrical Installations IET Wiring Regulations Eighteenth Edition](http://erlerdesign.com/download/ESD/draft__BS-7671_2017-06-23_for_comments.pdf)
+* Source: [New, Rewired And Similar Installations](https://www.electricalsafetyfirst.org.uk/professional-resources/wiring-regulations/new-rewired-and-similar-installations/), Electrical Safety First
+* Source: [Electrical enclosures](https://dxu3qlulsm4jd.cloudfront.net/sites/www.voltimum.co.uk/files/fields/attachment_file/gb/others/V/2007021245732007021261832007021263181780snagbook2ed2snag10.pdf), Voltimum
+* Source: [Distance of a socket from a sink – The Facts!](https://www.procertssoftware.com/blog/distance-of-a-socket-from-a-sink-the-facts/)
+* Source: [Ten 17th Edition Regulations at Christmas](https://the-regs.co.uk/blog/?p=334)
+* Source: [Wiring Regulations in Brief By Ray Tricker, 2020](https://www.google.co.uk/books/edition/Wiring_Regulations_in_Brief/n9UDEAAAQBAJ)
+* Source: [Newnes Electrical Pocket Book By E A Reeves, Martin Heathcote, 2013](https://www.google.co.uk/books/edition/Newnes_Electrical_Pocket_Book/mZFGXTlHIEsC?hl=en&gbpv=0)
+* Source: [Requirements for Electrical Installations IET Wiring Regulations Eighteenth Edition](http://erlerdesign.com/download/ESD/draft__BS-7671_2017-06-23_for_comments.pdf)
 
 ### What is the IET guidance based on BS 7671?
 
@@ -106,9 +126,9 @@ This states:
 
 > It is preferable that accessories should not be installed within 300mm of a stainless steel sink unit top.
 
-* Source [Guidance Note 1: Selection & Erection (Electrical Regulations) Paperback – 23 Nov. 2018](https://www.amazon.co.uk/Guidance-Note-Selection-Electrical-Regulations/dp/1785614452)
-* Source [Q & A of the Day – What is the allowable distance between sink and distribution unit?](https://www.voltimum.co.uk/articles/q-day-what-allowable-distance)
-* Source [Distance of a socket from a sink – The Facts!](https://www.procertssoftware.com/blog/distance-of-a-socket-from-a-sink-the-facts/)
+* Source: [Guidance Note 1: Selection & Erection (Electrical Regulations) Paperback – 23 Nov. 2018](https://www.amazon.co.uk/Guidance-Note-Selection-Electrical-Regulations/dp/1785614452)
+* Source: [Q & A of the Day – What is the allowable distance between sink and distribution unit?](https://www.voltimum.co.uk/articles/q-day-what-allowable-distance)
+* Source: [Distance of a socket from a sink – The Facts!](https://www.procertssoftware.com/blog/distance-of-a-socket-from-a-sink-the-facts/)
 
 #### Electrician's Guide to the Building Regulations (Electrical Regulations)
 
