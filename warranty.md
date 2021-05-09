@@ -1,5 +1,9 @@
 # Warranty
 
+> Most new-build homes have a 10-year warranty for building problems plus a developer’s warranty – usually for two years – for fixtures and fittings.
+
+* Source: [My new-build home has problems, what are my rights?](https://www.which.co.uk/consumer-rights/advice/my-new-build-home-has-problems-what-are-my-rights-ab0tt2B3qLBr)
+
 The [Developer] Home Warranty, which lasts for two years from the date of legal completion, covers items not included in the [Code of Conduct] cover. For that period, [the Developer will] guarantee items supplied as part of your new home, covering defects caused by our faulty workmanship or materials.
 
 * Source: [Warranty](http://balstanhomes.co.uk/customer-services/warranty/), Balstan Homes
@@ -13,6 +17,13 @@ The [Developer] Home Warranty, which lasts for two years from the date of legal 
 > The Consumer Code for Home Builders (“the Code”) is an industry led scheme which gives protection and rights to purchasers of new homes, ensuring that new Home Buyers are treated fairly and are fully informed about their purchase before and after they sign the contract.
 
 * Source: [Code sponsors](https://www.tradingstandards.uk/commercial-services/code-sponsors), Trading Standards
+
+> The Code Scheme applies to complaints made up
+  to two years from the date on the Home Warranty Body’s insurance certificate, which defines
+  the start of the period of cover, about defects or damage caused by a breach of its
+  technical requirements.
+
+* Source: [The Consumer Code Scheme](https://mk0consumercodemytl1.kinstacdn.com/wp-content/uploads/2019/02/Consumer-Code-Scheme-Fourth-Edition-September-2017_120219.pdf)
 
 ## ICW Code
 
