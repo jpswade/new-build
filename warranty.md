@@ -43,6 +43,12 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 
 * Source: [The Consumer Code for New-Home Ownership](https://www.tradingstandards.uk/media/documents/commercial/ccas-consultation/3.-the-consumer-code-for-new-home-ownership-first-edition-17112017.pdf)
 
+> Where the claim relates to the initial two year period of the Structural Insurance Period, or three years
+  for Common Parts, the Builder will be responsible for all remedial work in accordance with CRL technical
+  requirements.
+
+* Source: CRL [Policy Document](https://static1.squarespace.com/static/58a053a36a49636c5286dded/t/5942772cd2b857e783251175/1497528110875/CRL-Policy-Document.pdf)
+
 > CRL Management Ltd ("CRL") was an appointed representative of BCR Legal Group Ltd (“BCR”) who operated under authority from Alpha to sell Latent/Structural Defect insurance policy cover in the UK.  
 
 * Source: [Alpha Insurance A/S](https://www.fscs.org.uk/failed-firms/alpha/), FSCS
