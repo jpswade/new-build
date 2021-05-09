@@ -34,3 +34,15 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 > The two years from the Completion Date as specified in the Certificate of Insurance.
 
 * Source: ICW [POLICY DOCUMENT RESIDENTIAL WARRANTY UK (Version 2)](https://wbh1.co.uk/wp-content/uploads/2019/12/ICWIS-Residential-Warranty-Policy_v2.pdf)
+
+# CRL
+
+> The Consumer Code for New-Home Ownership (‘the Code’) is promoted by CRL Management Limited (CRL), one
+  the U.K.’s providers of Structural Home Defects Insurance protection, the company that maintains The Construction
+  Register.
+
+* Source: [The Consumer Code for New-Home Ownership](https://www.tradingstandards.uk/media/documents/commercial/ccas-consultation/3.-the-consumer-code-for-new-home-ownership-first-edition-17112017.pdf)
+
+> CRL Management Ltd ("CRL") was an appointed representative of BCR Legal Group Ltd (“BCR”) who operated under authority from Alpha to sell Latent/Structural Defect insurance policy cover in the UK.  
+
+* Source: [Alpha Insurance A/S](https://www.fscs.org.uk/failed-firms/alpha/), FSCS
