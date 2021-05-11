@@ -1,4 +1,4 @@
-# Warranty
+# Warranty Period
 
 > Most new-build homes have a 10-year warranty for building problems plus a developer’s warranty – usually for two years – for fixtures and fittings.
 
