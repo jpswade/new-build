@@ -50,6 +50,27 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 
 * Source: ICW [POLICY DOCUMENT RESIDENTIAL WARRANTY UK (Version 2)](https://wbh1.co.uk/wp-content/uploads/2019/12/ICWIS-Residential-Warranty-Policy_v2.pdf)
 
+### DRS
+
+> ICW Dispute Resolution Scheme (DRS)
+28.1 The ICW Dispute Resolution Scheme (DRS) is independent of the Builder and of ICW. Any matter referred to this scheme is solely with regard to a Dispute under the Code. Decisions are not insured under the ICW Structural Warranty Policy.
+28.2 The Buyer may refer a Dispute to ICW within 30 days of receiving a final response from the Builder.
+28.3 In the event that either party does not accept the result of the conciliation, either party may refer a
+Dispute to the Adjudicator.
+28.4 The Adjudication will be an independent process conducted by the offices of The Property Ombudsman under their Alternative Dispute Resolution Scheme (ADR) (www.tpos.co.uk).
+
+* Source: ICW [Consumer Code for New Homes](https://i-c-w.co.uk/wp-content/uploads/2016/11/ICW-Consumer-Code-for-New-Homes.pdf)
+
+#### The Property Ombudsman
+
+> The Property Ombudsman (TPO) scheme is an ombudsman in the United Kingdom. It has been providing consumers and property agents with an alternative dispute resolution service since 1990.
+
+* Source: [The Property Ombudsman](https://en.wikipedia.org/wiki/The_Property_Ombudsman), Wikipedia
+
+#### Also see
+
+* [ADR Approved Bodies: The Property Ombudsman](https://www.tradingstandards.uk/consumers/adr-approved-bodies/the-property-ombudsman)
+
 ### Also see
 
 * [ICW Technical Document](https://issuu.com/i-c-w33/docs/icw_technical_doc)
@@ -71,6 +92,3 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 > CRL Management Ltd ("CRL") was an appointed representative of BCR Legal Group Ltd (“BCR”) who operated under authority from Alpha to sell Latent/Structural Defect insurance policy cover in the UK.  
 
 * Source: [Alpha Insurance A/S](https://www.fscs.org.uk/failed-firms/alpha/), FSCS
-
-## The Property Ombudsman
-
