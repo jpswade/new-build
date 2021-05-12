@@ -25,6 +25,10 @@ The [Developer] Home Warranty, which lasts for two years from the date of legal 
 
 * Source: [The Consumer Code Scheme](https://mk0consumercodemytl1.kinstacdn.com/wp-content/uploads/2019/02/Consumer-Code-Scheme-Fourth-Edition-September-2017_120219.pdf)
 
+### Also see
+
+* [Adjudication case summaries](https://consumercode.co.uk/home-buyers/how-are-complaints-dealt-with/adjudication-case-summaries/)
+
 ## ICW Code
 
 The Code supported by ICW Warranty is approved by the Chartered Trading Standards Institute’s Consumer Codes Approval Scheme.
@@ -67,3 +71,6 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 > CRL Management Ltd ("CRL") was an appointed representative of BCR Legal Group Ltd (“BCR”) who operated under authority from Alpha to sell Latent/Structural Defect insurance policy cover in the UK.  
 
 * Source: [Alpha Insurance A/S](https://www.fscs.org.uk/failed-firms/alpha/), FSCS
+
+## The Property Ombudsman
+
