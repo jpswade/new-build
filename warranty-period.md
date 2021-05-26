@@ -28,6 +28,8 @@ The [Developer] Home Warranty, which lasts for two years from the date of legal 
 ### Also see
 
 * [Adjudication case summaries](https://consumercode.co.uk/home-buyers/how-are-complaints-dealt-with/adjudication-case-summaries/)
+* [THE CONSUMER CODE FOR HOME BUILDERS Annual Report 2017](https://mk0consumercodemytl1.kinstacdn.com/wp-content/uploads/2018/06/IDRS-Annual-Report-2017-18.pdf)
+* [Case studies](https://www.tradingstandards.uk/commercial-services/consumer-codes-approval-scheme/case-studies)
 
 ## ICW Code
 
@@ -53,11 +55,14 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 ### DRS
 
 > ICW Dispute Resolution Scheme (DRS)
-28.1 The ICW Dispute Resolution Scheme (DRS) is independent of the Builder and of ICW. Any matter referred to this scheme is solely with regard to a Dispute under the Code. Decisions are not insured under the ICW Structural Warranty Policy.
-28.2 The Buyer may refer a Dispute to ICW within 30 days of receiving a final response from the Builder.
-28.3 In the event that either party does not accept the result of the conciliation, either party may refer a
-Dispute to the Adjudicator.
-28.4 The Adjudication will be an independent process conducted by the offices of The Property Ombudsman under their Alternative Dispute Resolution Scheme (ADR) (www.tpos.co.uk).
+>
+> 28.1 The ICW Dispute Resolution Scheme (DRS) is independent of the Builder and of ICW. Any matter referred to this scheme is solely with regard to a Dispute under the Code. Decisions are not insured under the ICW Structural Warranty Policy.
+>
+> 28.2 The Buyer may refer a Dispute to ICW within 30 days of receiving a final response from the Builder.
+>
+> 28.3 In the event that either party does not accept the result of the conciliation, either party may refer a Dispute to the Adjudicator.
+>
+> 28.4 The Adjudication will be an independent process conducted by the offices of The Property Ombudsman under their Alternative Dispute Resolution Scheme (ADR) (www.tpos.co.uk).
 
 * Source: ICW [Consumer Code for New Homes](https://i-c-w.co.uk/wp-content/uploads/2016/11/ICW-Consumer-Code-for-New-Homes.pdf)
 
@@ -66,6 +71,18 @@ Dispute to the Adjudicator.
 > The Property Ombudsman (TPO) scheme is an ombudsman in the United Kingdom. It has been providing consumers and property agents with an alternative dispute resolution service since 1990.
 
 * Source: [The Property Ombudsman](https://en.wikipedia.org/wiki/The_Property_Ombudsman), Wikipedia
+
+> We act within the Terms of Reference for the Property Ombudsman Scheme to provide a free, fair and independent service for dealing with unresolved disputes between agents who are registered with the scheme and their actual or potential clients.
+> 
+> I am sorry to have to tell you that we would be unable to assist with your complaint as ICW Insurance Services are not registered with this scheme for alternative dispute resolution services. 
+> 
+> The National House Building Council may be able to give guidance and advice and their contact number is 0800 035 6422.   
+>
+> The Consumer Code for New Homes may also be able to give advice or guidance regarding your complaint, their website is consumercodefornewhomes.com and their contact number is 0333 900 1966. 
+> 
+> You may also wish to seek independent legal advice regarding this matter. 
+> 
+> - Janice Chitty, Initial Enquiries Advisor
 
 #### Also see
 
