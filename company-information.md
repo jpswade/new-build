@@ -43,3 +43,11 @@ They will be advised that failure to do this will result in Gas Safe Register pa
 > Anyone has the right to make a complaint to the ICO about an infringement of the data protection legislation in relation to their personal data. For example, if a controller fails to comply with a SAR.
 
 * Source: [Can the right of access be enforced?](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/right-of-access/can-the-right-of-access-be-enforced/)
+
+## Privacy Notice
+
+> A privacy notice is a public document from an organization that explains how that organization processes personal data and how it applies data protection principles.
+>
+> Generally, a privacy notice will be provided in writing and, where appropriate, supplied electronically. Every organization that maintains a website should publish their privacy notice there, under the title “Privacy Policy,” and it should be accessible via a direct link from every webpage.
+
+* Source: [Privacy Notice](https://gdpr.eu/privacy-notice/), GDPR
