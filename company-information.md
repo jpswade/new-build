@@ -51,3 +51,10 @@ They will be advised that failure to do this will result in Gas Safe Register pa
 > Generally, a privacy notice will be provided in writing and, where appropriate, supplied electronically. Every organization that maintains a website should publish their privacy notice there, under the title “Privacy Policy,” and it should be accessible via a direct link from every webpage.
 
 * Source: [Privacy Notice](https://gdpr.eu/privacy-notice/), GDPR
+
+## Cookie Notice
+
+> Do I need a cookie warning notice on my website?
+> Yes. Visitors to your website need to be told that cookies are being used, and what they do.
+
+* Source: [Transparency (cookies and privacy notices)](https://ico.org.uk/for-organisations/sme-web-hub/frequently-asked-questions/transparency-cookies-and-privacy-notices/) 
