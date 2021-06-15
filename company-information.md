@@ -58,3 +58,11 @@ They will be advised that failure to do this will result in Gas Safe Register pa
 > Yes. Visitors to your website need to be told that cookies are being used, and what they do.
 
 * Source: [Transparency (cookies and privacy notices)](https://ico.org.uk/for-organisations/sme-web-hub/frequently-asked-questions/transparency-cookies-and-privacy-notices/) 
+
+## Consumer Protection from Unfair Trading Regulations 2008
+
+> Under the Consumer Protection from Unfair Trading Regulations (CPRs), property vendors are obliged to declare any information that can decrease the value of the property or affect its enjoyment.
+* Source: [36% of Brits Wouldn’t Buy Property Where Someone Has Died](https://www.sellhousefast.uk/blog/36-of-brits-wouldnt-buy-property-where-someone-has-died/)
+
+> The CPRs prohibit misleading actions that cause or are likely to cause the average consumer to take a transactional decision they would not have taken otherwise. The definition of a 'misleading action' is very detailed (regulation 5 of the CPRs) but it essentially means providing false information or giving an overall presentation that deceives or is likely to deceive the consumer, even if the information is factually correct. 
+* Source: [Property descriptions: sale or let](https://www.businesscompanion.info/en/quick-guides/services/property-descriptions-sale-or-let)
