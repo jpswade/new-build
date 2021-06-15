@@ -44,21 +44,6 @@ They will be advised that failure to do this will result in Gas Safe Register pa
 
 * Source: [Can the right of access be enforced?](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/right-of-access/can-the-right-of-access-be-enforced/)
 
-## Privacy Notice
-
-> A privacy notice is a public document from an organization that explains how that organization processes personal data and how it applies data protection principles.
->
-> Generally, a privacy notice will be provided in writing and, where appropriate, supplied electronically. Every organization that maintains a website should publish their privacy notice there, under the title “Privacy Policy,” and it should be accessible via a direct link from every webpage.
-
-* Source: [Privacy Notice](https://gdpr.eu/privacy-notice/), GDPR
-
-## Cookie Notice
-
-> Do I need a cookie warning notice on my website?
-> Yes. Visitors to your website need to be told that cookies are being used, and what they do.
-
-* Source: [Transparency (cookies and privacy notices)](https://ico.org.uk/for-organisations/sme-web-hub/frequently-asked-questions/transparency-cookies-and-privacy-notices/) 
-
 ## Consumer Protection from Unfair Trading Regulations 2008
 
 > Under the Consumer Protection from Unfair Trading Regulations (CPRs), property vendors are obliged to declare any information that can decrease the value of the property or affect its enjoyment.
@@ -72,8 +57,3 @@ They will be advised that failure to do this will result in Gas Safe Register pa
 > The restrictions apply to anyone who has been a director of a company at any time in the 12 months before it goes into insolvent liquidation even though there may not have been any misconduct or dishonesty in relation to the failure.
 
 * Source: [Re-use of company names](https://www.gov.uk/government/publications/re-use-of-company-names/re-use-of-company-names)
-
-## Legal restrictions on photography
-
-> In the United Kingdom there are no laws forbidding photography of private property from a public place. ... Civil proceeding can be taken if a person is filmed without consent, and privacy laws exist to protect a person where they can expect privacy.
-* Source: [Photography and the law](https://en.wikipedia.org/wiki/Photography_and_the_law#Photography_and_privacy), Wikipedia
