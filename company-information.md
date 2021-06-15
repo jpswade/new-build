@@ -66,3 +66,14 @@ They will be advised that failure to do this will result in Gas Safe Register pa
 
 > The CPRs prohibit misleading actions that cause or are likely to cause the average consumer to take a transactional decision they would not have taken otherwise. The definition of a 'misleading action' is very detailed (regulation 5 of the CPRs) but it essentially means providing false information or giving an overall presentation that deceives or is likely to deceive the consumer, even if the information is factually correct. 
 * Source: [Property descriptions: sale or let](https://www.businesscompanion.info/en/quick-guides/services/property-descriptions-sale-or-let)
+
+## Re-use of company names
+
+> The restrictions apply to anyone who has been a director of a company at any time in the 12 months before it goes into insolvent liquidation even though there may not have been any misconduct or dishonesty in relation to the failure.
+
+* Source: [Re-use of company names](https://www.gov.uk/government/publications/re-use-of-company-names/re-use-of-company-names)
+
+## Legal restrictions on photography
+
+> In the United Kingdom there are no laws forbidding photography of private property from a public place. ... Civil proceeding can be taken if a person is filmed without consent, and privacy laws exist to protect a person where they can expect privacy.
+* Source: [Photography and the law](https://en.wikipedia.org/wiki/Photography_and_the_law#Photography_and_privacy), Wikipedia
