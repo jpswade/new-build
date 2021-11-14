@@ -1,8 +1,10 @@
 # Management Company
 
-Once the last plot has been sold the management company will be in the control of the house owners and they can mutually agree to change the arrangements.
+A management company is responsible for managing services, including roads and green spaces, on new build developments.
 
-The Management Company will become the owner of the communal open spaces once all the plots have been sold. The Management Company’s expenses will be recovered by the service charge as detailed in the TP1.
+> Once the last plot has been sold the management company will be in the control of the house owners and they can mutually agree to change the arrangements.
+
+> The Management Company will become the owner of the communal open spaces once all the plots have been sold. The Management Company’s expenses will be recovered by the service charge as detailed in the TP1.
 
 ## See also
 - [Problems facing freeholders on new developments](https://hoa.org.uk/2016/11/problems-facing-freeholders-new-developments/)
@@ -11,3 +13,4 @@ The Management Company will become the owner of the communal open spaces once al
 - [Admitting a new member of a company limited by guarantee](https://www.informdirect.co.uk/shares/new-member-of-company-limited-by-guarantee-process/)
 - [Home Owners Rights](https://www.homeownersrights.net/)
 - [Fleecehold Mortgage Prisoners - You and Yours - 20/11/19](https://www.youtube.com/watch?v=IUG3RY3vJIs)
+- [What is a management company when buying a new build property?](https://www.emsleys.co.uk/blog/what-is-a-management-company-when-buying-a-new-build-property)
