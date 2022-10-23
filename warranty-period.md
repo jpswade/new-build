@@ -39,7 +39,7 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 
 > Your builder will provide the initial warranty on your new home. This is valid for the first 2 years after the completion date. If you encounter any problems with your home during this time, inform your builder and they will work with you to put things right.
 
-* Source: ICW [Getting to know your home - Home Buyers Guide](https://wbh1.co.uk/wp-content/uploads/2019/12/Getting-to-Know-Your-Home_v6..pdf)
+* Source: ICW [Getting to know your home - Home Buyers Guide](https://web.archive.org/web/20210304033114/https://wbh1.co.uk/wp-content/uploads/2019/12/Getting-to-Know-Your-Home_v6..pdf)
  
 * Source: [International Construction Warranties Ltd](https://www.tradingstandards.uk/commercial-services/code-sponsors/international-construction-warranties-ltd), Trading Standards
 
@@ -50,7 +50,7 @@ The Code supported by ICW Warranty is approved by the Chartered Trading Standard
 > Defects Insurance Period
 > The two years from the Completion Date as specified in the Certificate of Insurance.
 
-* Source: ICW [POLICY DOCUMENT RESIDENTIAL WARRANTY UK (Version 2)](https://wbh1.co.uk/wp-content/uploads/2019/12/ICWIS-Residential-Warranty-Policy_v2.pdf)
+* Source: ICW [POLICY DOCUMENT RESIDENTIAL WARRANTY UK (Version 2)](https://web.archive.org/web/20210304023401/https://wbh1.co.uk/wp-content/uploads/2019/12/ICWIS-Residential-Warranty-Policy_v2.pdf)
 
 ### DRS
 
